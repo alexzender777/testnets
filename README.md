@@ -12,3 +12,4 @@ For more information please follow:
 - [Telegram Announcements Channel](https://t.me/OmniFlixNetwork)
 - [Telegram Group Chat](https://t.me/OmniFlixChat) (request for the URL to a validator-only group if you haven't already received it)
 - [Discord Server](https://discord.gg/y27vAh79uU)
+ok
